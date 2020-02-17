@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f37af48d8a0a9ba40832416ff0cd11e9, type: 3}
+  m_Name: C4
+  m_EditorClassIdentifier: 
+  storyText: "Crater\n\nyou make it out of the crater and see the NASA relay. and
+    an area with interesting rocks\r\n\r\nWhat should i do?\r\n\r\n\t1. explore the
+    rock\r\n\r\n\t2.go to NASA relay"
+  nextStates:
+  - {fileID: 11400000, guid: d420ca9c9c19de54a9ebeab3adea4138, type: 2}
+  - {fileID: 11400000, guid: f300ad55e0af61242bf919ea5061b0bd, type: 2}

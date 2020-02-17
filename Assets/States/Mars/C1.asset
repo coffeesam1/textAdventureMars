@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f37af48d8a0a9ba40832416ff0cd11e9, type: 3}
+  m_Name: C1
+  m_EditorClassIdentifier: 
+  storyText: "Crater\r\non your decent down the crater you begin to accelerate too
+    fast\r\n\r\nWhat should i do?\r\n\r\n\t1. you use arms to slow yourself down\r\n\r\n\t2.
+    take the risk and go faster"
+  nextStates:
+  - {fileID: 11400000, guid: e11bb43c21985d84d94563cc8a1d04b3, type: 2}
+  - {fileID: 11400000, guid: bb4307a039245c946bd7aa918689e77b, type: 2}

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f37af48d8a0a9ba40832416ff0cd11e9, type: 3}
+  m_Name: V3
+  m_EditorClassIdentifier: 
+  storyText: "Valley\n\nthe rock has good information that was gathered but you have
+    wasted 2 days. you also notice there are canyons you can drive through.\r\nWhat
+    should i do?\r\n\t1. continue through the valley\r\n\r\n\t2. go in to canyon"
+  nextStates:
+  - {fileID: 11400000, guid: 82f5eb278eecfca4db78618f7adae168, type: 2}
+  - {fileID: 11400000, guid: 3af812a1992f3c64ebfe382cc2aac855, type: 2}

@@ -1,0 +1,8 @@
+you are the rover with AI stuck on Mars and have lost commincation with NASA
+
+move to find the next relay point comminicate?
+stay put and wait for NASA?
+
+What should i do?
+	1. move off the landing pad to find the next relay
+	2. stay put and wait for NASA

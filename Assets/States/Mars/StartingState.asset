@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f37af48d8a0a9ba40832416ff0cd11e9, type: 3}
+  m_Name: StartingState
+  m_EditorClassIdentifier: 
+  storyText: "You are the rover with AI stuck on Mars and have lost commincation with
+    NASA\r\n\r\nmove to find the next relay point comminicate?\r\n\r\nstay put and
+    wait for NASA?\r\n\r\nWhat should i do?\r\n\r\n\t1. move off the landing pad to
+    the valley\r\n\r\n\t2. move off the landing pad to the crater"
+  nextStates:
+  - {fileID: 11400000, guid: c23b45d4e96feec46bb79b07e02cb51f, type: 2}
+  - {fileID: 11400000, guid: ba9dc7c6e3ad36240ac9cbcfd34c82c1, type: 2}
